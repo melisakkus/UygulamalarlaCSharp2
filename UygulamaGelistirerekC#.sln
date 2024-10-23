@@ -113,8 +113,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KitaplikProjesi_Access", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataKontrolleri", "HataKontrolleri\HataKontrolleri.csproj", "{0D8F0ED6-CFDD-45D3-BD2B-645F810E4C37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İlişkiliTablolar_EOkul", "İlişkiliTablolar_EOkul\İlişkiliTablolar_EOkul.csproj", "{847ECE2D-92DE-4638-88CD-0397002147DA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity_Proje", "Entity_Proje\Entity_Proje.csproj", "{F28A1BC2-D308-434B-8EC2-294D77F647A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NKatmanlıMimari", "NKatmanlıMimari", "{2431B359-EF93-428A-A432-6D53040DF34F}"
@@ -309,10 +307,6 @@ Global
 		{0D8F0ED6-CFDD-45D3-BD2B-645F810E4C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8F0ED6-CFDD-45D3-BD2B-645F810E4C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8F0ED6-CFDD-45D3-BD2B-645F810E4C37}.Release|Any CPU.Build.0 = Release|Any CPU
-		{847ECE2D-92DE-4638-88CD-0397002147DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{847ECE2D-92DE-4638-88CD-0397002147DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{847ECE2D-92DE-4638-88CD-0397002147DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{847ECE2D-92DE-4638-88CD-0397002147DA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F28A1BC2-D308-434B-8EC2-294D77F647A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F28A1BC2-D308-434B-8EC2-294D77F647A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F28A1BC2-D308-434B-8EC2-294D77F647A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
